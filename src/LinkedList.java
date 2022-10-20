@@ -1,17 +1,5 @@
 
 /* Class: LinkedList
- * Authors: Samuel Cho
- * Maya Sidhu
- * Avery Kirkpatrick 
- * Ruochen Hu
- * Sam Lowenhar
- * Henry Paulson
- * Pedro Bravo
- * Hanna Vaidya
- * Hi! -Lily M
- * Description: Class for Pokemon dataset implementation of a Linked List.
- * Update (March 18, 2022): Converted Linked List Class into a generic class.
- * Github repository: https://github.com/WFUCSC112Cho/exercise-pokemon-fight-linked-list-team-3.git
  * Authors:
  */
 
